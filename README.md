@@ -5,7 +5,7 @@
 This repository was created to enable a new widget on WordPress Elementor plugin that search only for post ID parameters.
 It was created from WordPress standart form widget, and customized with some CSS style. The widget will do a broader search in WordPress posts to display each equivalent post title on a index.php page. 
 
-<img src = "https://drive.google.com/uc?id=1yNeMuoEuo1VvWo9L5VGokyoRmk8waiFn/">
+<img src = "https://drive.google.com/uc?id=1yNeMuoEuo1VvWo9L5VGokyoRmk8waiFn">
 
 
 ## How to run
